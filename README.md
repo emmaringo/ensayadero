@@ -1,9 +1,5 @@
 # Sistema de agendamiento para un ensayadero musical
-
-Aplicación web desarrollada como proyecto de formación del Técnico en Desarrollo de Software. Permite consultar instrumentos disponibles y gestionar reservas de horarios para un ensayadero musical.
-
 ## Tecnologías utilizadas
-
 - **Backend:** Node.js y Express.
 - **Frontend:** React y Vite.
 - **Base de datos:** SQLite.
