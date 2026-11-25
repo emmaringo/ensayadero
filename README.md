@@ -1,3 +1,6 @@
+#Nombre: Emmanuel Blandón Zapata
+#Ficha: 3519093
+
 # Sistema de agendamiento para un ensayadero musical
 ## Tecnologías utilizadas
 - **Backend:** Node.js y Express.
